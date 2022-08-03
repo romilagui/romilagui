@@ -43,7 +43,8 @@ I am sharing with you all the projects that I built along with the material that
 - 🌱 I’m currently learning about **APIs**
 - 👯 I’m looking to collaborate on educational projects.
  
- **Other Skills**
+ **Other Skills**:
+ <br>
  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
 
 <!-- 
