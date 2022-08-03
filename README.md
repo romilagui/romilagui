@@ -5,8 +5,9 @@ I am sharing with you all the projects that I built along with the material that
 **[romilagui/romilagui](https://github.com/romilagui)** is a ✨ _special_ ✨ repository because its `README.md`.
 
 🎓 Graduation: July 2022 - Telecommunications Engineering
-🎥 Now I have time for my **Youtube** Videos
-I am a:
+🎥 Now I have time for my **Youtube** Videos.
+
+**I am a:**
 - 💻  Programmer
 - 🛍️ Blogger
 - 🎹 Pianist 
@@ -20,6 +21,13 @@ I am a:
 - ✏️ Drawing
 - 💡 Innovation & Technology 
 
+ ⚡ Fun facts about me: 
+   I got drunk for the first and last time when I was about 8 years old.
+   I majored on ngineering just because I love math and science.
+   I started a web developer journey because I would love to travel while working.
+   I posted my first youtube video way back on 2010
+
+**Web Dev Journey** 
 **Update August 3rd 2022**
 - 🔭 I’m currently working on **Vanilla Javascript** projects
 - 🌱 I’m currently learning about **APIs**
