@@ -1,13 +1,18 @@
 ### Hello!👋 My name is Romila. I started my web developer journey in January 2022. It has been very challenging.
 
 <div>
- <a href="https://github.com/romilagui>
- <strong> <a href="https://www.linkedin.com/in/romila-rangel-576423a4/"> Linkedin </a></strong>
- <a href="https://www.facebook.com/RomilaaRangel/"> Facebook </a>
-                                                       
-          <img height="180em" src=""/>
+ <a href="https://github.com/romilagui"> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romilagui&show_icons=true&theme-dracula&include_all_comitstrue&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/username=romilagui&layout=compact&langs_count=16&theme-dracula"/>
  </div>
 
+                                    
+                                    
+                                    
+                                    
+ <strong> <a href="https://www.linkedin.com/in/romila-rangel-576423a4/"> Linkedin </a></strong>
+ <a href="https://www.facebook.com/RomilaaRangel/"> Facebook </a>
+                                                  
 I wish I could tell you how everything started and how it's going, but I can't do it here.
 I am sharing with you all the projects that I built along with the material that I had to study in order to become one of the most succefull web developers that you will ever encounter. That was actually a joke! I do other things besides programming, so I might not be the best at this. Either you are striving to become the best or you are just willing to embelish your resume with programming skills, you are very welcome to check out my projects and feel inspired to take a similar route. 
 
