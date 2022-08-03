@@ -19,8 +19,16 @@
  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 </div>
 
-<br>
+##
 
+<div>
+ <a href="https://www.linkedin.com/in/romila-rangel-576423a4/" target=_blank><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href="https://twitter.com/romilagui" target=_blank><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=whit"></a>
+  <a href="https://www.youtube.com/romilagui" target=_blank><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+ </div>
+
+##
+<div>
  <p> I started my web developer journey in **January 2022.** It has been very challenging.
 I wish I could tell you how everything started and how it's going, but I can't do it here.
 I am sharing with you all the projects that I built along with the material that I had to study in order to become one of the most succefull web developers that you will ever encounter. That was actually a joke! I do other things besides programming, so I might not be the best at this. Either you are striving to become the best or you are just willing to embelish your resume with programming skills, you are very welcome to check out my projects and feel inspired to take a similar route.</p>
@@ -55,6 +63,7 @@ I am sharing with you all the projects that I built along with the material that
    I started a web developer journey because I would love to travel while working.
    I posted my first youtube video way back on 2010
  </small>
+ </div>
 <!-- 
 Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
