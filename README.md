@@ -42,6 +42,10 @@ I am sharing with you all the projects that I built along with the material that
 - 🔭 I’m currently working on **Vanilla Javascript** projects
 - 🌱 I’m currently learning about **APIs**
 - 👯 I’m looking to collaborate on educational projects.
+ 
+ **Other Skills**
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+
 <!-- 
  <center> <i> Extra: </i> </center>
 <small>
