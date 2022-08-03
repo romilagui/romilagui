@@ -19,8 +19,7 @@
  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 </div>
 
-##
-
+<br>
 
  <p> I started my web developer journey in **January 2022.** It has been very challenging.
 I wish I could tell you how everything started and how it's going, but I can't do it here.
