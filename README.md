@@ -7,12 +7,15 @@ I am sharing with you all the projects that I built along with the material that
 🎓 Graduation: July 2022 - Telecommunications Engineering
 🎥 Now I have time for my **Youtube** Videos
 I am a:
+- 💻  Programmer
+- 🛍️ Blogger
 - 🎹 Pianist 
 - 🎙️ Singer
 - 🎼 Song Writter
 
 ❤️ I love: 
 - 📸 Photgraphy
+- 🎞️ Filming
 - ✍️ Writting
 - ✏️ Drawing
 - 💡 Innovation & Technology 
