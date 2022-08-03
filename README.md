@@ -1,9 +1,12 @@
 ### Hello!👋 My name is Romila. 
+<hr>
 
 <div>
+ <center>
  <a href="https://github.com/romilagui"> 
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romilagui&show_icons=true&theme=onedark&include_all_comitstrue&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romilagui&theme=onedark&layout=compact&langs_count=16"/>
+  </center>
  </div>
  
  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
