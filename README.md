@@ -4,6 +4,7 @@
 <div>
  <a href="https://github.com/romilagui"> 
  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=romilagui&show_icons=true&theme=onedark&include_all_comitstrue&count_private=true"/>
+  <br>
    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romilagui&theme=onedark&layout=compact&langs_count=16"/>
   </center>
  </div>
@@ -17,11 +18,9 @@
  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 </div>
+
 ##
 
-<div>
-<a href="[https://www.youtube.com/channel/UC](https://www.youtube.com/romilagui)" target=_blank"><
-</div>
 
  <p> I started my web developer journey in **January 2022.** It has been very challenging.
 I wish I could tell you how everything started and how it's going, but I can't do it here.
