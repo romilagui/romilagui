@@ -29,6 +29,8 @@
  <a href="https://www.instagram.com/romilarangel/" target=_blank><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </div>
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 ##
 <div>
  <p> I started my web developer journey in **January 2022.** It has been very challenging.
