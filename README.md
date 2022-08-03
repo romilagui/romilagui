@@ -21,8 +21,16 @@
 I wish I could tell you how everything started and how it's going, but I can't do it here.
 I am sharing with you all the projects that I built along with the material that I had to study in order to become one of the most succefull web developers that you will ever encounter. That was actually a joke! I do other things besides programming, so I might not be the best at this. Either you are striving to become the best or you are just willing to embelish your resume with programming skills, you are very welcome to check out my projects and feel inspired to take a similar route.</p>
 🎓 Graduation: July 2022 - Telecommunications Engineering
-🎥 Now I have time for my **Youtube** Videos.
-
+ 
+ 
+ **Web Dev Journey** 
+**Update August 3rd 2022**
+- 🔭 I’m currently working on **Vanilla Javascript** projects
+- 🌱 I’m currently learning about **APIs**
+- 👯 I’m looking to collaborate on educational projects.
+ 
+ <center> <i> Extra: </i> </center>
+<small>
 **I am a:**
 - 💻  Programmer
 - 🛍️ Blogger
@@ -42,14 +50,7 @@ I am sharing with you all the projects that I built along with the material that
    I majored on ngineering just because I love math and science.
    I started a web developer journey because I would love to travel while working.
    I posted my first youtube video way back on 2010
-
-**Web Dev Journey** 
-**Update August 3rd 2022**
-- 🔭 I’m currently working on **Vanilla Javascript** projects
-- 🌱 I’m currently learning about **APIs**
-- 👯 I’m looking to collaborate on educational projects.
-
-
+ </small>
 <!-- 
 Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
